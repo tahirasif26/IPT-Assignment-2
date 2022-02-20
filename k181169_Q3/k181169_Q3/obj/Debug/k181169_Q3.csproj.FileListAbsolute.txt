@@ -1,0 +1,14 @@
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.exe.config
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.exe
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.pdb
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.csproj.CoreCompileInputs.cache
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.exe
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.pdb
+C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.csproj.AssemblyReference.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.exe.config
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.exe
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Debug\k181169_Q3.pdb
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.csprojAssemblyReference.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.csproj.CoreCompileInputs.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.exe
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Debug\k181169_Q3.pdb

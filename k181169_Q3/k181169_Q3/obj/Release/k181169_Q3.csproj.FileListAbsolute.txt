@@ -1,0 +1,9 @@
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe.config
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe
+D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.pdb
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.csprojAssemblyReference.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.ProjectInstaller.resources
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.csproj.GenerateResource.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.csproj.CoreCompileInputs.cache
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.exe
+D:\Assignment2\k181169_Q3\k181169_Q3\obj\Release\k181169_Q3.pdb
