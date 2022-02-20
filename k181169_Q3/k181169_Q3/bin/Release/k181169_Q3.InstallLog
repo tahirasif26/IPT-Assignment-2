@@ -1,0 +1,21 @@
+﻿Installing assembly 'D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe
+Installing service Q3_IPT...
+Service Q3_IPT has been successfully installed.
+Creating EventLog source Q3_IPT in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q3\k181169_Q3\bin\Release\k181169_Q3.exe
+Removing EventLog source Q3_IPT.
+Service Q3_IPT is being removed from the system...
+Service Q3_IPT was successfully removed from the system.

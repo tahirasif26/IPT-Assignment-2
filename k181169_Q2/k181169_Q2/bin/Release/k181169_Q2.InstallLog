@@ -1,0 +1,21 @@
+﻿Installing assembly 'D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe
+Installing service Q2_IPT...
+Service Q2_IPT has been successfully installed.
+Creating EventLog source Q2_IPT in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q2\k181169_Q2\bin\Release\k181169_Q2.exe
+Removing EventLog source Q2_IPT.
+Service Q2_IPT is being removed from the system...
+Service Q2_IPT was successfully removed from the system.

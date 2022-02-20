@@ -1,0 +1,245 @@
+﻿Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service Service1...
+Service Service1 has been successfully installed.
+Creating EventLog source Service1 in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source Service1.
+Service Service1 is being removed from the system...
+Service Service1 was successfully removed from the system.
+Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Installing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = C:\Users\DC\Desktop\IPT_Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Attempt to stop service EmaiServer.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmaiServer...
+Service EmaiServer has been successfully installed.
+Creating EventLog source EmaiServer in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmaiServer.
+Service EmaiServer is being removed from the system...
+Service EmaiServer was successfully removed from the system.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmailServer...
+Service EmailServer has been successfully installed.
+Creating EventLog source EmailServer in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmailServer.
+Service EmailServer is being removed from the system...
+Service EmailServer was successfully removed from the system.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service EmailServer...
+Service EmailServer has been successfully installed.
+Creating EventLog source EmailServer in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Uninstalling assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Removing EventLog source EmailServer.
+Service EmailServer is being removed from the system...
+Service EmailServer was successfully removed from the system.
+Installing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
+Installing service Q1_IPT...
+Service Q1_IPT has been successfully installed.
+Creating EventLog source Q1_IPT in log Application...
+Committing assembly 'D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe'.
+Affected parameters are:
+   logtoconsole = 
+   logfile = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.InstallLog
+   assemblypath = D:\Assignment2\k181169_Q1\k181169_Q1\bin\Release\k181169_Q1.exe
